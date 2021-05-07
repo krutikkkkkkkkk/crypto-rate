@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  margin-top: 1em;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2em;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  align-self: flex-start;
+  color: #fff;
+}
+
+li {
+  list-style: none;
+  margin-bottom: 2em;;
+  padding: 1em;
+  height: 5em;
+  width: 16em;
+  border-radius: .8em;
+  background-color: #222;
+  box-shadow: inset -5px -5px 8px  #0000008a ,inset 5px 5px 8px#ffffff0f;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
