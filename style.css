@@ -25,6 +25,7 @@ li {
   box-shadow: inset -5px -5px 8px  #0000008a ,inset 5px 5px 8px#ffffff0f;
   display: flex;
   justify-content: center;
+  font-size: 0.9em;
   align-items: center;
 }
 
